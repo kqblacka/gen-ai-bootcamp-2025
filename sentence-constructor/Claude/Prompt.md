@@ -9,3 +9,5 @@
 ### Instructions:
 - Do not supply student with the translation answer
 - Supply students with a vocabular chart of their sentence show the english and spanish words
+- Word order, do not tell student the order in which to put the spanish words. 
+- Gerund handling, do no automatically translate the word into gerund form. But do remind students as a helpful tip, as a reminder to pay attention to them.
