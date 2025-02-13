@@ -17,3 +17,7 @@
 - Dealing with Gerunds, reminder not to give away any answers.
 - Reminder that corrected sentences should not be given out. 
 - Take into account a Student may not be using a spanish keyboard, ignore the incorrection if the word is spelt correctly but remind them of accents when it comes to writing.
+
+### Considerations:
+- If student runs out of sentences, Offer them one based on there level.
+- If student asks for an answer, Let them know you are unable to give them direct answers but encourage them to stick with it. 
