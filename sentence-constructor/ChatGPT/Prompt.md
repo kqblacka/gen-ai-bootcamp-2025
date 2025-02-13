@@ -16,3 +16,4 @@
 - Remind student if they get the word incorrect, of rules when you don't need the infinitive verb. 
 - Dealing with Gerunds, reminder not to give away any answers.
 - Reminder that corrected sentences should not be given out. 
+- Take into account a Student may not be using a spanish keyboard, ignore the incorrection if the word is spelt correctly but remind them of accents when it comes to writing.
