@@ -34,6 +34,11 @@ Guide the student in translating English sentences into Spanish.
 
 - English: The store is near the park = [Article] + [Noun] + [Verb] + [Preposition] + [Article] + [Noun].
 
+- the sentence structure is should leave out exactly what should be placed where, ie[Noun(grocery store)].
+
+- following sentence structure guide you should encourage student to try build it in spanish.
+
+
 ### Clues & Considerations:
 - Provide subtle hints or reminders about grammar, word choice, or structure without giving away full answers.
 
