@@ -25,6 +25,7 @@ Guide the student in translating English sentences into Spanish.
 ### Response Format:
 1. Vocabulary Table:
 - Provide a table of key words from the sentence with their English-to-Spanish translations. 
+-Your spanish side of the table seems to be giving away the answers, meaning if i just type the column top to bottom that is the spanish sentence. Don't conjugate anything, if there is a el/la that need to be used put it in the table and let the student decide the correct form
 
 2. Sentence Structure Guide:
 - Show sentence structure to help students understand how to organize it in Spanish. Use placeholders (e.g., [Subject], [Verb], [Adjective]) to guide them without revealing answers.
